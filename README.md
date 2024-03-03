@@ -35,4 +35,5 @@ This project is licensed under the MIT License ([https://opensource.org/license/
 
 Link to web app : https://anurag943-linearregression-withou-using-framework-app-r9bz84.streamlit.app/
 LinkedIn profile : https://www.linkedin.com/in/anurag-nandanwar-b9401b299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 I hope this README file effectively guides you through your project's purpose and usage!
