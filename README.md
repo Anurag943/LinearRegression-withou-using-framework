@@ -29,9 +29,6 @@ This code demonstrates the basic steps of linear regression, including:
 
 Feel free to fork the repository, make your changes, and submit a pull request to contribute to the project's development.
 
-## License
-
-This project is licensed under the MIT License ([https://opensource.org/license/mit](https://opensource.org/license/mit)).
 
 Link to web app : https://anurag943-linearregression-withou-using-framework-app-r9bz84.streamlit.app/
 
