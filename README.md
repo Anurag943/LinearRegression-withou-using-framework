@@ -1,5 +1,5 @@
 
-##Linear Regression Implementation From Scratch
+**Linear Regression Implementation From Scratch**
 
 This project implements linear regression without relying on external frameworks like scikit-learn. It utilizes NumPy and Pandas for efficient numerical computations and data manipulation, and showcases the fundamental workings of gradient descent optimization.
 
